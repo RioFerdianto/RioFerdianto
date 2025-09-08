@@ -14,6 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 ### Skills
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,mysql,php,laravel,figma,python,flutter,kali&theme=light)](https://skillicons.dev)
+
+### Connect With Me
+
+
+
+### <p align="left">Play games with me</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RioFerdianto/RioFerdianto/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RioFerdianto/RioFerdianto/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RioFerdianto/RioFerdianto/output/pacman-contribution-graph.svg">
+</picture>
+
+###
