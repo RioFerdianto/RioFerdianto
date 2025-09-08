@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-##### Skills
+### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,mysql,php,laravel,figma,python,flutter,kali&theme=light&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,mysql,php,laravel,figma,python,flutter,kali&theme=light)](https://skillicons.dev)
