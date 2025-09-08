@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=html,css,mysql,php,laravel,figma,python,flutter,kali&theme=light)](https://skillicons.dev)
 
 ### Connect With Me
-
+![https://instagram.com/fa.rioferdianto](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://www.linkedin.com/in/rio-ferdianto-430749214/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 
 ### <p align="left">Play games with me</p>
